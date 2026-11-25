@@ -702,7 +702,7 @@ function classementEtablissement(etablissementId) {
 
 // ----- 9. Administration (code et suppressions) -----
 
-const CODE_ADMIN_LOCAL = "N+L FOREVER";
+const CODE_ADMIN_LOCAL = "";
 
 async function verifierCodeAdmin(code) {
     let propre = typeof code === "string" ? code.trim() : "";
