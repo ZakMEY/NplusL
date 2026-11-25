@@ -8,7 +8,7 @@
 // Remplace ces deux valeurs par celles de ton projet Supabase
 // (Project Settings -> API -> Project URL & anon/publishable key).
 // Tant que tu laisses les valeurs par défaut, le site fonctionne en local.
-const SUPABASE_URL = "https://auydfbymzudxypryduyn.supabase.co/rest/v1/";
+const SUPABASE_URL = "https://auydfbymzudxypryduyn.supabase.co";
 const SUPABASE_ANON_KEY = "sb_publishable_FKy5VKVEzOMim6DxY-Vxew_s5A9svZp";
 
 const MODE_EN_LIGNE =
